@@ -1,10 +1,10 @@
 # -High-Performance-Networked-JDBC-Database-System
 
-PROJECT DESCRIPTION:
+**PROJECT DESCRIPTION:
 
-My Java UI project communicates, exchanges and syncs data in client/server fashion. In other words it builds a client/server system that reads data from a DB into an object and sends the object to the server.
+-My Java UI project communicates, exchanges and syncs data in client/server fashion. In other words it builds a client/server system that reads data from a DB into an object and sends the object to the server.
 
-ABOUT PROJECT:
+**ABOUT PROJECT:
 
 - The project leverages the powerful capabilities of SQLite3 database system, utilizing two key Java files: one for the client interface and another for the server interface.
 - The server interface boasts impressive multi-threading abilities, allowing it to seamlessly manage multiple client interfaces concurrently.
@@ -13,5 +13,5 @@ ABOUT PROJECT:
 - The project successfully incorporates seven key topics required in a Java final project, including JDBC connections using SQLite3 database, Socket programming, Multithreading, Object-Oriented concepts, Serialization, Swings and event handling for UI, and Collections.
 - The seamless integration of these topics results in a software solution that is robust, efficient, and reliable, making it an ideal choice for modern software development.
 
-NOTE:
+**NOTE:
 **Please refer to Java_Project_Instructions pdf for the project readme instructions
