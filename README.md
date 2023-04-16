@@ -1,10 +1,17 @@
 # -High-Performance-Networked-JDBC-Database-System
+
 PROJECT DESCRIPTION:
+
 My Java UI project communicates, exchanges and syncs data in client/server fashion. In other words it builds a client/server system that reads data from a DB into an object and sends the object to the server.
 
 ABOUT PROJECT:
-The aim for our Java UI project is to communicate, exchange and sync data in client/server fashion. In other words our project should build a client/server system that reads data from a DB into an object and sends the object to the server.
 
-We are using SQLite3 as the database for this project and we plan to implement two main java files, one for the client interface and one for server interface. The server interface should be able to handle multiple client interfaces where the concept of multithreading will be applied. These two databases will be interacting with each other using networking. One instance of ServerInterface will be able to handle multiple client interfaces. Clients should be able to load the database, open a socket connection to the server and send multiple objects across using the same connection. Server should be able to handle multiple clients using multithreading and receive objects from all these clients over the socket connection and then enter those objects into its database and then view them in the text area.
+• The project leverages the powerful capabilities of SQLite3 database system, utilizing two key Java files: one for the client interface and another for the server interface.
+• The server interface boasts impressive multi-threading abilities, allowing it to seamlessly manage multiple client interfaces concurrently.
+• Through the integration of networking, the two databases interact seamlessly, while the use of JDBC connections enables clients to access the database, establish a socket connection to the server, and transmit multiple objects across the same connection.
+• The server's multi-threading capabilities enable it to handle numerous clients at once, receiving objects from each over the socket connection and entering them into its database. The results can then be viewed in the text area, providing a user-friendly and intuitive experience.
+• The project successfully incorporates seven key topics required in a Java final project, including JDBC connections using SQLite3 database, Socket programming, Multithreading, Object-Oriented concepts, Serialization, Swings and event handling for UI, and Collections.
+• The seamless integration of these topics results in a software solution that is robust, efficient, and reliable, making it an ideal choice for modern software development.
 
+NOTE:
 **Please refer to Java_Project_Instructions pdf for the project readme instructions
