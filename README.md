@@ -12,4 +12,4 @@ __ABOUT PROJECT:__
 - The seamless integration of these topics results in a software solution that is robust, efficient, and reliable, making it an ideal choice for modern software development.
 
 __NOTE:__
--Please refer to Java_Project_Instructions pdf for the project readme instructions
+- Please refer to Java_Project_Instructions pdf for the project readme instructions
