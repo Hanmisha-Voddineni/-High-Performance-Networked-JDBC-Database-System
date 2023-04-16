@@ -7,4 +7,4 @@ The aim for our Java UI project is to communicate, exchange and sync data in cli
 
 We are using SQLite3 as the database for this project and we plan to implement two main java files, one for the client interface and one for server interface. The server interface should be able to handle multiple client interfaces where the concept of multithreading will be applied. These two databases will be interacting with each other using networking. One instance of ServerInterface will be able to handle multiple client interfaces. Clients should be able to load the database, open a socket connection to the server and send multiple objects across using the same connection. Server should be able to handle multiple clients using multithreading and receive objects from all these clients over the socket connection and then enter those objects into its database and then view them in the text area.
 
-Please refer to      for the project readme instructions
+**Please refer to Java_Project_Instructions pdf for the project readme instructions
