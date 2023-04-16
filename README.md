@@ -1,7 +1,7 @@
 __High-Performance-Networked-JDBC-Database-System__
 
 __PROJECT DESCRIPTION:__
--My Java UI project communicates, exchanges and syncs data in client/server fashion. In other words it builds a client/server system that reads data from a DB into an object and sends the object to the server.
+- My Java UI project communicates, exchanges and syncs data in client/server fashion. In other words it builds a client/server system that reads data from a DB into an object and sends the object to the server.
 
 __ABOUT PROJECT:__
 - The project leverages the powerful capabilities of SQLite3 database system, utilizing two key Java files: one for the client interface and another for the server interface.
